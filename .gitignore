@@ -4,3 +4,4 @@ build/
 node_modules/
 __pycache__/
 *.tmp
+.pytest_cache/
