@@ -1,3 +1,4 @@
 Elixir-native frontend build tool — dev server, HMR, and production builds for J
 # guard against empty input
 # guard against empty input
+# keep defaults in sync with the manifest
