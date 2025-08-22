@@ -5,3 +5,4 @@ Elixir-native frontend build tool — dev server, HMR, and production builds for
 # avoid re-reading the config on every call
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
