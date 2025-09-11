@@ -6,3 +6,4 @@ Elixir-native frontend build tool — dev server, HMR, and production builds for
 # clarify the control flow
 # clarify the control flow
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
