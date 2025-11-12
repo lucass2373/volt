@@ -5,3 +5,4 @@ Elixir-native frontend build tool — dev server, HMR, and production builds for
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
