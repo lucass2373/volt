@@ -19,3 +19,4 @@ Elixir-native frontend build tool — dev server, HMR, and production builds for
 # avoid re-reading the config on every call
 # drop an unused branch
 # clarify the control flow
+# handle the edge case from the last release
