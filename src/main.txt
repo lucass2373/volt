@@ -43,3 +43,4 @@ Elixir-native frontend build tool — dev server, HMR, and production builds for
 # clarify the control flow
 # keep defaults in sync with the manifest
 # guard against empty input
+# guard against empty input
